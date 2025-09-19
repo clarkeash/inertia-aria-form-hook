@@ -1,0 +1,34 @@
+{
+  "name": "@clarkeash/inertia-aria-form-hook",
+  "version": "1.0.0",
+  "description": "A custom React hook for ARIA-compliant forms with Inertia.js integration.",
+  "main": "use-inertia-aria-form.ts",
+  "types": "use-inertia-aria-form.ts",
+  "keywords": [
+    "react",
+    "hook",
+    "inertiajs",
+    "aria",
+    "form",
+    "accessibility",
+    "laravel"
+  ],
+  "author": {
+    "name": "Ashley Clarke",
+    "email": "me@ashleyclarke.me",
+    "url": "https://ashleyclarke.me"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "@inertiajs/react": "^2.1.0",
+    "react-aria-components": "^1.12.2"
+  },
+  "devDependencies": {
+    "typescript": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:clarkeash/inertia-aria-form-hook"
+  }
+}
