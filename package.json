@@ -1,6 +1,6 @@
 {
   "name": "@clarkeash/inertia-aria-form-hook",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "A custom React hook for ARIA-compliant forms with Inertia.js integration.",
   "main": "use-inertia-aria-form.ts",
   "types": "use-inertia-aria-form.ts",
